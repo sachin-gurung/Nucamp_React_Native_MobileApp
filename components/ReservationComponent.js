@@ -13,7 +13,7 @@ class Reservation extends Component {
             hikeIn: false,
             date: new Date(),
             showCalendar: false,
-            showModal: false
+            showModal: false,
         };
     }
 
@@ -39,7 +39,6 @@ class Reservation extends Component {
             showModal: false
         });
     }
-    
 
     render() {
         return (
@@ -129,7 +128,6 @@ class Reservation extends Component {
         );
     }
 }
-
 const styles = StyleSheet.create({
     formRow: {
         alignItems: 'center',
@@ -145,7 +143,7 @@ const styles = StyleSheet.create({
     formItem: {
         flex: 1
     },
-    modal: { 
+    modal: {
         justifyContent: 'center',
         margin: 20
     },

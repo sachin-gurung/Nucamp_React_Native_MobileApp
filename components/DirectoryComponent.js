@@ -10,9 +10,8 @@ const mapStateToProps = state => {
         campsites: state.campsites
     };
 };
-class Directory extends Component {
 
-    
+class Directory extends Component {
 
     static navigationOptions = {
         title: 'Directory'
@@ -31,6 +30,7 @@ class Directory extends Component {
                 />
             );
         };
+
         if (this.props.campsites.isLoading) {
             return <Loading />;
         }
