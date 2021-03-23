@@ -34,6 +34,9 @@
 12. json-server -H 0.0.0.0 --watch db.json -p 3001 -d 2000
 (To start json server)
 
+13. expo install expo-secure-store
+(To install Secure Store)
+
 
 
 
