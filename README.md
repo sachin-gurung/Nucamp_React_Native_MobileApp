@@ -37,6 +37,9 @@
 13. expo install expo-secure-store
 (To install Secure Store)
 
+14. expo install expo-notifications@~0.3.3
+(To install expo-notifications)
+
 
 
 
