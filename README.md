@@ -40,6 +40,9 @@
 14. expo install expo-notifications@~0.3.3
 (To install expo-notifications)
 
+15. expo install expo-mail-composer
+(To install expo-mail-composer)
+
 
 
 
