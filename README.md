@@ -43,6 +43,8 @@
 15. expo install expo-mail-composer
 (To install expo-mail-composer)
 
+16. expo install expo-image-picker@8 react-navigation-tabs expo-permissions@9
+(To install expo-image-picker, react-navigation-tabs expo-permissions@9)
 
 
 
